@@ -3,8 +3,8 @@
 ### Hello there! 👋
 
 #### I like to define myself as a professional computer scientist
-- 🔭 I’m currently working as 🧪 researcher 📖 at UPV
-- 🌱 I’m currently studying a PhD in distributed systems
+- 🔭 I’m currently working as 🧪 [researcher}(http://www.upv.es/ficha-personal/osmuogar) 📖 at UPV
+- 🌱 I’m currently studying a PhD in distributed systems ([ORCID](https://orcid.org/0000-0002-4873-2492))
 - 💬 Ask me about scalability
 - 📫 You can reach me by my [linkedin profile](https://www.linkedin.com/in/oscar-mu%C3%B1oz-garrigos/)
 
